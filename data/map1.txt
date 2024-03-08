@@ -1,0 +1,7 @@
+Name yeet
+Theme Sand
+Offset -0.5 0.0
+TrackX 0.0 0.0 832.0 832.0 1429.0 1429.0
+TrackY 393.0 393.0 393.0 648.0 648.0 0.0
+TrackDir RIGHT RIGHT DOWN RIGHT UP
+TrackWater 415.5 719.5 367.0 295.0 1726.0 490.5 310.0 515.0 End
